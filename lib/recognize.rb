@@ -1,3 +1,5 @@
+require 'recognize/railtie'
+
 class RecognizeRailtie < Rails::Railtie
   rake_tasks do
     load 'tasks/recognize.rake'
