@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.summary = 'Find which controller/action is handled by a specific url'
   s.description = 'Find which controller/action is handled by a specific url'
   s.authors = ['Michael West']
-  s.files = ['lib/recognize_route.rb']
+  s.files = ['lib/recognize.rb']
 end
